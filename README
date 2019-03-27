@@ -1,0 +1,7 @@
+Create uncertainty map plots and spread/skill diagrams for GEFS forecast data.
+
+To run:
+
+plotMap.pl <config_file>
+
+Where <config_file> is a plotMap configuration file. See config.example for details.
